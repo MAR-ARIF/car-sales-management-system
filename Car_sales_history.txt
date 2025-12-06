@@ -1,0 +1,19 @@
+** BMW model-5. 8 Series Coupé has been sold for £87,120
+** MERCEDES model-1. CLA EV has been sold for £50,000
+** AUDI model-1. Q4 e-tron has been sold for £52,325
+** AUDI model-2. A6 Avant e-tron has been sold for £65,000
+** CHERY model-1. Tiggo 7 Petrol has been sold for £24,995
+** MERCEDES model-2. G-Class Retro Edition has been sold for £153000
+** CHERY model-1. Tiggo 7 Petrol has been sold for £24,995
+** MERCEDES model-4. EQA Urban Edition has been sold for £51960
+** MERCEDES model-1. CLA EV has been sold for £50,000
+** MERCEDES model-2. G-Class Retro Edition has been sold for £153000
+** CHERY model-1. Tiggo 7 Petrol has been sold for £24,995
+** BMW model-5. 8 Series Coupé has been sold for £87,120
+** AUDI model-5. A3 Sportback has been sold for £31,600
+** AUDI model-5. A3 Sportback has been sold for £31,600
+** AUDI model-5. A3 Sportback has been sold for £31,600
+** AUDI model-1. Q4 e-tron has been sold for £52,325
+** BMW model-3. X3 PHEV has been sold for £60,140
+** MERCEDES model-1. CLA EV has been sold for £50,000
+** CHERY model-4. Tiggo 8 Hybrid has been sold for £33,545

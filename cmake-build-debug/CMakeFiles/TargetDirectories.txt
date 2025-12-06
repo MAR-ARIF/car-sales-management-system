@@ -1,0 +1,3 @@
+C:/Users/arifa/CLionProjects/The Car Sales Project/cmake-build-debug/CMakeFiles/The_Car_Sales_Project.dir
+C:/Users/arifa/CLionProjects/The Car Sales Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arifa/CLionProjects/The Car Sales Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+Total car sold- 0
+Total amount of sale- 0
+
+1.MERCEDES Sold- 0 | total sale amount-0
+2.BMW sold- 0 | total sale amount-0
+3.CHERY sold- 0 | total sale amount-0
+4.AUDI sold-0 | total sale amount-0

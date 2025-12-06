@@ -1,0 +1,21 @@
+***** Sales History *****
+
+Customer Name: as
+Car Type: 
+Number of Cars: 1
+Sale Amount: 20000.00 GBP
+Discount Given: NO
+--------------------------
+Customer Name: asfg
+Car Type: AUDI
+Number of Cars: 6
+Sale Amount: 96000.00 GBP
+Discount Given: YES
+--------------------------
+Customer Name: a
+
+Car Type: MERCEDES
+Number of Cars: 1
+Sale Amount: 30000.00 GBP
+Discount Given: NO
+--------------------------
